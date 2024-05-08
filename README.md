@@ -2,7 +2,7 @@
 
 ChatGPT Survey via Python
 
-This Python project utilizes the Pandas library for data manipulation and Matplotlib for data visualization.
+This Python project utilizes the Pandas library for data manipulation and Matplotlib for data visualization. (Figure 1,2,3,4,5,6).
 It reads data from a CSV file named "chatGPTSurveyGroup.csv" containing survey responses. The python code then generates various types of graphs based on the survey data,
 such as vertical bar graphs, horizontal bar graphs, and pie charts, to analyze different aspects of the survey results.
 
@@ -12,4 +12,3 @@ and concerns about ChatGPT's use in academia.
 
 The project aims to provide visual insights into the survey data regarding participants' demographics, experiences,
 and opinions related to ChatGPT and its potential impact on academia and society.
-
