@@ -45,7 +45,7 @@ def pieChart(label, df):
     plt.show()
 
 if __name__ == "__main__":
-    df = pd.read_csv("chatGPTSurveyGroup_64.csv")
+    df = pd.read_csv("chatGPTSurveyGroup.csv")
     pd.options.display.max_rows = 9999
     pd.options.display.max_columns = 9999
 
