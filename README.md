@@ -12,3 +12,4 @@ and concerns about ChatGPT's use in academia.
 
 The project aims to provide visual insights into the survey data regarding participants' demographics, experiences,
 and opinions related to ChatGPT and its potential impact on academia and society.
+
